@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\SimpleKeypad.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\SimpleKeypad.pdb
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\obj\Debug\SimpleKeypad.pdb

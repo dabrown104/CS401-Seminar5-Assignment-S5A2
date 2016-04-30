@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad.UWP\SimpleKeypad.UWP.csproj;x86
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar5-Assignment-S5A2\SimpleKeypad\SimpleKeypad\SimpleKeypad\SimpleKeypad.csproj;neutral
